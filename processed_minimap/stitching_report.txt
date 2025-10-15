@@ -1,0 +1,117 @@
+Tibia Minimap Stitching Report
+==================================================
+
+Summary: 16/16 floors processed successfully
+
+Floor 0:
+  Status: SUCCESS
+  Tiles: 45
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_00.png
+
+Floor 1:
+  Status: SUCCESS
+  Tiles: 57
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_01.png
+
+Floor 2:
+  Status: SUCCESS
+  Tiles: 60
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_02.png
+
+Floor 3:
+  Status: SUCCESS
+  Tiles: 65
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_03.png
+
+Floor 4:
+  Status: SUCCESS
+  Tiles: 68
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_04.png
+
+Floor 5:
+  Status: SUCCESS
+  Tiles: 70
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_05.png
+
+Floor 6:
+  Status: SUCCESS
+  Tiles: 71
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_06.png
+
+Floor 7:
+  Status: SUCCESS
+  Tiles: 80
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_07.png
+
+Floor 8:
+  Status: SUCCESS
+  Tiles: 73
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_08.png
+
+Floor 9:
+  Status: SUCCESS
+  Tiles: 75
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_09.png
+
+Floor 10:
+  Status: SUCCESS
+  Tiles: 73
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_10.png
+
+Floor 11:
+  Status: SUCCESS
+  Tiles: 71
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_11.png
+
+Floor 12:
+  Status: SUCCESS
+  Tiles: 62
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_12.png
+
+Floor 13:
+  Status: SUCCESS
+  Tiles: 66
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_13.png
+
+Floor 14:
+  Status: SUCCESS
+  Tiles: 68
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_14.png
+
+Floor 15:
+  Status: SUCCESS
+  Tiles: 65
+  Dimensions: 2560x2048 pixels
+  Grid: 10x8 tiles
+  Output: processed_minimap\floor_15.png
+
